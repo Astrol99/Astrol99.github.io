@@ -1,0 +1,16 @@
+{
+"companyName": "astrol99",
+"productName": "CUBE RUNNER",
+"productVersion": "0.1",
+"dataUrl": "CUBE RUNNER.data.unityweb",
+"wasmCodeUrl": "CUBE RUNNER.wasm.code.unityweb",
+"wasmFrameworkUrl": "CUBE RUNNER.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#F8F7F7",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
